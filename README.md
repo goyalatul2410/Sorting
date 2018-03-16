@@ -1,6 +1,6 @@
 # Sorting
 
-##Different Sorting Algotithms.
+## Different Sorting Algotithms.
 
 Bubble Sort
 
